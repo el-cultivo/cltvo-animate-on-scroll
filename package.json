@@ -1,0 +1,14 @@
+{
+  "name": "cltvo-animate-on-scroll",
+  "version": "1.0.0",
+  "description": "Módulo de jQuery que permite triggerear animaciones en el DOM",
+  "main": "animate-on-scroll.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diego Villaseñor",
+  "license": "ISC",
+  "dependencies": {
+    "lodash.debounce": "4.0.8"
+  }
+}
