@@ -2,6 +2,9 @@
 
 Módulo de jQuery que permite triggerear animaciones en el DOM. Esto se hace agregando una clase cuyo CSS generará la una animación.
 
+## Instalación
+`npm i cltvo-animate-on-scroll`
+
 ## Uso
 ```
 //main.js
